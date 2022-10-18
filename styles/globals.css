@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Comforter+Brush&display=swap");
+* {
+  box-sizing: border-box;
+}
+
+.title {
+  font-family: "Comforter Brush", cursive;
+  font-size: 5rem;
+}
+.app {
+  display: grid;
+  place-items: center;
+  width: 100%;
+  height: 100vh;
+  background-color: #cf0a0a;
+}
